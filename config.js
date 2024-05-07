@@ -8,14 +8,14 @@ global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
 global.namaowner = 'ShinySebastian'
 
 //—————「 Setting Owner 」—————//
-global.owner = '628116646665'
-global.nomorlu = '6281932309239'
-global.ownernomer = ["628116646665"]
-global.premium = ['628116646665']
+global.owner = 'Arifincuy'
+global.nomorlu = '62881027466278'
+global.ownernomer = ["62881027466278"]
+global.premium = ['62881027466278']
 
 //—————「 Set Wm 」—————//
-global.packname = 'GabutBot-Reborn'
-global.author = 'ShinySebastian'
+global.packname = 'ArifincuyBOT'
+global.author = 'arifincuy'
 global.prefa = ['', '.']
 global.sp = '•'
 
